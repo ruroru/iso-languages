@@ -1,0 +1,1320 @@
+{:gothic {:french "Gothique" :alpha3-b "got" :english "Gothic"}
+ :pashto
+ {:french "Pachto" :alpha2 "ps" :alpha3-b "pus" :english "Pashto"}
+ :timne {:french "Temne" :alpha3-b "tem" :english "Timne"}
+ :kashubian
+ {:french "Kachoube" :alpha3-b "csb" :english "Kashubian"}
+ :khasi {:french "Khasi" :alpha3-b "kha" :english "Khasi"}
+ :sandawe {:french "Sandawe" :alpha3-b "sad" :english "Sandawe"}
+ :tigrinya
+ {:french "Tigrigna"
+  :alpha2 "ti"
+  :alpha3-b "tir"
+  :english "Tigrinya"}
+ :bikol {:french "Bikol" :alpha3-b "bik" :english "Bikol"}
+ :votic {:french "Vote" :alpha3-b "vot" :english "Votic"}
+ :otomian-languages
+ {:french "Otomi langues"
+  :alpha3-b "oto"
+  :english "Otomian languages"}
+ :tahitian
+ {:french "Tahitien"
+  :alpha2 "ty"
+  :alpha3-b "tah"
+  :english "Tahitian"}
+ :herero
+ {:french "Herero" :alpha2 "hz" :alpha3-b "her" :english "Herero"}
+ :bihari-languages
+ {:french "Langues biharis"
+  :alpha3-b "bih"
+  :english "Bihari languages"}
+ :kurdish
+ {:french "Kurde" :alpha2 "ku" :alpha3-b "kur" :english "Kurdish"}
+ :karen-languages
+ {:french "Karen langues"
+  :alpha3-b "kar"
+  :english "Karen languages"}
+ :bislama
+ {:french "Bichlamar"
+  :alpha2 "bi"
+  :alpha3-b "bis"
+  :english "Bislama"}
+ :oriya
+ {:french "Oriya" :alpha2 "or" :alpha3-b "ori" :english "Oriya"}
+ :tsonga
+ {:french "Tsonga" :alpha2 "ts" :alpha3-b "tso" :english "Tsonga"}
+ :portuguese
+ {:french "Portugais"
+  :alpha2 "pt"
+  :alpha3-b "por"
+  :english "Portuguese"}
+ :karachay-balkar
+ {:french "Karatchai balkar"
+  :alpha3-b "krc"
+  :english "Karachay-balkar"}
+ :ekajuk {:french "Ekajuk" :alpha3-b "eka" :english "Ekajuk"}
+ :multiple-languages
+ {:french "Multilingue"
+  :alpha3-b "mul"
+  :english "Multiple languages"}
+ :abkhazian
+ {:french "Abkhaze"
+  :alpha2 "ab"
+  :alpha3-b "abk"
+  :english "Abkhazian"}
+ :lithuanian
+ {:french "Lituanien"
+  :alpha2 "lt"
+  :alpha3-b "lit"
+  :english "Lithuanian"}
+ :austronesian-languages
+ {:french "Austronésiennes langues"
+  :alpha3-b "map"
+  :english "Austronesian languages"}
+ :maldivian
+ {:french "Maldivien"
+  :alpha2 "dv"
+  :alpha3-b "div"
+  :english "Maldivian"}
+ :zhuang
+ {:french "Zhuang" :alpha2 "za" :alpha3-b "zha" :english "Zhuang"}
+ :scots {:french "Écossais" :alpha3-b "sco" :english "Scots"}
+ :zenaga {:french "Zenaga" :alpha3-b "zen" :english "Zenaga"}
+ :nogai {:french "Nogay" :alpha3-b "nog" :english "Nogai"}
+ :kpelle {:french "Kpellé" :alpha3-b "kpe" :english "Kpelle"}
+ :danish
+ {:french "Danois" :alpha2 "da" :alpha3-b "dan" :english "Danish"}
+ :coptic {:french "Copte" :alpha3-b "cop" :english "Coptic"}
+ :walloon
+ {:french "Wallon" :alpha2 "wa" :alpha3-b "wln" :english "Walloon"}
+ :karelian {:french "Carélien" :alpha3-b "krl" :english "Karelian"}
+ :no-linguistic-content
+ {:french "Pas de contenu linguistique"
+  :alpha3-b "zxx"
+  :english "No linguistic content"}
+ :japanese
+ {:french "Japonais"
+  :alpha2 "ja"
+  :alpha3-b "jpn"
+  :english "Japanese"}
+ :australian-languages
+ {:french "Australiennes langues"
+  :alpha3-b "aus"
+  :english "Australian languages"}
+ :southern-altai
+ {:french "Altai du sud" :alpha3-b "alt" :english "Southern altai"}
+ :middle-english
+ {:french "Anglais moyen" :alpha3-b "enm" :english "Middle english"}
+ :chuvash
+ {:french "Tchouvache"
+  :alpha2 "cv"
+  :alpha3-b "chv"
+  :english "Chuvash"}
+ :sogdian {:french "Sogdien" :alpha3-b "sog" :english "Sogdian"}
+ :basa {:french "Basa" :alpha3-b "bas" :english "Basa"}
+ :hausa
+ {:french "Haoussa" :alpha2 "ha" :alpha3-b "hau" :english "Hausa"}
+ :lahnda {:french "Lahnda" :alpha3-b "lah" :english "Lahnda"}
+ :norwegian
+ {:french "Norvégien"
+  :alpha2 "no"
+  :alpha3-b "nor"
+  :english "Norwegian"}
+ :zulu
+ {:french "Zoulou" :alpha2 "zu" :alpha3-b "zul" :english "Zulu"}
+ :wakashan-languages
+ {:french "Wakashanes langues"
+  :alpha3-b "wak"
+  :english "Wakashan languages"}
+ :cheyenne {:french "Cheyenne" :alpha3-b "chy" :english "Cheyenne"}
+ :sranan-tongo
+ {:french "Sranan tongo" :alpha3-b "srn" :english "Sranan tongo"}
+ :ladino
+ {:french "Judéo-espagnol" :alpha3-b "lad" :english "Ladino"}
+ :hindi
+ {:french "Hindi" :alpha2 "hi" :alpha3-b "hin" :english "Hindi"}
+ :malagasy
+ {:french "Malgache"
+  :alpha2 "mg"
+  :alpha3-b "mlg"
+  :english "Malagasy"}
+ :angika {:french "Angika" :alpha3-b "anp" :english "Angika"}
+ :cushitic-languages
+ {:french "Couchitiques langues"
+  :alpha3-b "cus"
+  :english "Cushitic languages"}
+ :amharic
+ {:french "Amharique"
+  :alpha2 "am"
+  :alpha3-b "amh"
+  :english "Amharic"}
+ :yiddish
+ {:french "Yiddish"
+  :alpha2 "yi"
+  :alpha3-b "yid"
+  :english "Yiddish"}
+ :celtic-languages
+ {:french "Celtiques langues"
+  :alpha3-b "cel"
+  :english "Celtic languages"}
+ :pohnpeian {:french "Pohnpei" :alpha3-b "pon" :english "Pohnpeian"}
+ :tokelau {:french "Tokelau" :alpha3-b "tkl" :english "Tokelau"}
+ :mandingo {:french "Mandingue" :alpha3-b "man" :english "Mandingo"}
+ :palauan {:french "Palau" :alpha3-b "pau" :english "Palauan"}
+ :caddo {:french "Caddo" :alpha3-b "cad" :english "Caddo"}
+ :catalan
+ {:french "Catalan"
+  :alpha2 "ca"
+  :alpha3-b "cat"
+  :english "Catalan"}
+ :tamil
+ {:french "Tamoul" :alpha2 "ta" :alpha3-b "tam" :english "Tamil"}
+ :quechua
+ {:french "Quechua"
+  :alpha2 "qu"
+  :alpha3-b "que"
+  :english "Quechua"}
+ :washo {:french "Washo" :alpha3-b "was" :english "Washo"}
+ :semitic-languages
+ {:french "Sémitiques langues"
+  :alpha3-b "sem"
+  :english "Semitic languages"}
+ :irish
+ {:french "Irlandais"
+  :alpha2 "ga"
+  :alpha3-b "gle"
+  :english "Irish"}
+ :ottoman-turkish
+ {:french "Turc ottoman" :alpha3-b "ota" :english "Ottoman turkish"}
+ :chuukese {:french "Chuuk" :alpha3-b "chk" :english "Chuukese"}
+ :lushai {:french "Lushai" :alpha3-b "lus" :english "Lushai"}
+ :chewa
+ {:french "Chewa" :alpha2 "ny" :alpha3-b "nya" :english "Chewa"}
+ :komi {:french "Kom" :alpha2 "kv" :alpha3-b "kom" :english "Komi"}
+ :skolt-sami
+ {:french "Sami skolt" :alpha3-b "sms" :english "Skolt sami"}
+ :ga {:french "Ga" :alpha3-b "gaa" :english "Ga"}
+ :aromanian
+ {:french "Aroumain" :alpha3-b "rup" :english "Aromanian"}
+ :czech
+ {:french "Tchèque"
+  :alpha2 "cs"
+  :alpha3-b "cze"
+  :alpha3-t "ces"
+  :english "Czech"}
+ :xhosa
+ {:french "Xhosa" :alpha2 "xh" :alpha3-b "xho" :english "Xhosa"}
+ :romance-languages
+ {:french "Romanes langues"
+  :alpha3-b "roa"
+  :english "Romance languages"}
+ :siouan-languages
+ {:french "Sioux langues"
+  :alpha3-b "sio"
+  :english "Siouan languages"}
+ :kinyarwanda
+ {:french "Rwanda"
+  :alpha2 "rw"
+  :alpha3-b "kin"
+  :english "Kinyarwanda"}
+ :kutenai {:french "Kutenai" :alpha3-b "kut" :english "Kutenai"}
+ :breton
+ {:french "Breton" :alpha2 "br" :alpha3-b "bre" :english "Breton"}
+ :kongo
+ {:french "Kongo" :alpha2 "kg" :alpha3-b "kon" :english "Kongo"}
+ :dzongkha
+ {:french "Dzongkha"
+  :alpha2 "dz"
+  :alpha3-b "dzo"
+  :english "Dzongkha"}
+ :ndonga
+ {:french "Ndonga" :alpha2 "ng" :alpha3-b "ndo" :english "Ndonga"}
+ :serbian
+ {:french "Serbe" :alpha2 "sr" :alpha3-b "srp" :english "Serbian"}
+ :uncoded-languages
+ {:french "Langues non codées"
+  :alpha3-b "mis"
+  :english "Uncoded languages"}
+ :chamic-languages
+ {:french "Chames langues"
+  :alpha3-b "cmc"
+  :english "Chamic languages"}
+ :fon {:french "Fon" :alpha3-b "fon" :english "Fon"}
+ :land-dayak-languages
+ {:french "Dayak langues"
+  :alpha3-b "day"
+  :english "Land dayak languages"}
+ :afrihili {:french "Afrihili" :alpha3-b "afh" :english "Afrihili"}
+ :bengali
+ {:french "Bengali"
+  :alpha2 "bn"
+  :alpha3-b "ben"
+  :english "Bengali"}
+ :burmese
+ {:french "Birman"
+  :alpha2 "my"
+  :alpha3-b "bur"
+  :alpha3-t "mya"
+  :english "Burmese"}
+ :sidamo {:french "Sidamo" :alpha3-b "sid" :english "Sidamo"}
+ :mohawk {:french "Mohawk" :alpha3-b "moh" :english "Mohawk"}
+ :esperanto
+ {:french "Espéranto"
+  :alpha2 "eo"
+  :alpha3-b "epo"
+  :english "Esperanto"}
+ :marwari {:french "Marvari" :alpha3-b "mwr" :english "Marwari"}
+ :aragonese
+ {:french "Aragonais"
+  :alpha2 "an"
+  :alpha3-b "arg"
+  :english "Aragonese"}
+ :tai-languages
+ {:french "Tai langues" :alpha3-b "tai" :english "Tai languages"}
+ :himachali-languages
+ {:french "Langues himachalis"
+  :alpha3-b "him"
+  :english "Himachali languages"}
+ :venda
+ {:french "Venda" :alpha2 "ve" :alpha3-b "ven" :english "Venda"}
+ :ainu {:french "Aïnou" :alpha3-b "ain" :english "Ainu"}
+ :mikmaq {:french "Mi'kmaq" :alpha3-b "mic" :english "Mi'kmaq"}
+ :yoruba
+ {:french "Yoruba" :alpha2 "yo" :alpha3-b "yor" :english "Yoruba"}
+ :braj {:french "Braj" :alpha3-b "bra" :english "Braj"}
+ :susu {:french "Soussou" :alpha3-b "sus" :english "Susu"}
+ :inuktitut
+ {:french "Inuktitut"
+  :alpha2 "iu"
+  :alpha3-b "iku"
+  :english "Inuktitut"}
+ :zuni {:french "Zuni" :alpha3-b "zun" :english "Zuni"}
+ :kosraean {:french "Kosrae" :alpha3-b "kos" :english "Kosraean"}
+ :berber-languages
+ {:french "Berbères langues"
+  :alpha3-b "ber"
+  :english "Berber languages"}
+ :samoan
+ {:french "Samoan" :alpha2 "sm" :alpha3-b "smo" :english "Samoan"}
+ :slavic-languages
+ {:french "Slaves langues"
+  :alpha3-b "sla"
+  :english "Slavic languages"}
+ :romanian
+ {:french "Roumain"
+  :alpha2 "ro"
+  :alpha3-b "rum"
+  :alpha3-t "ron"
+  :english "Romanian"}
+ :chinese
+ {:french "Chinois"
+  :alpha2 "zh"
+  :alpha3-b "chi"
+  :alpha3-t "zho"
+  :english "Chinese"}
+ :swahili
+ {:french "Swahili"
+  :alpha2 "sw"
+  :alpha3-b "swa"
+  :english "Swahili"}
+ :tonga
+ {:french "Tongan" :alpha2 "to" :alpha3-b "ton" :english "Tonga)"}
+ :tsimshian
+ {:french "Tsimshian" :alpha3-b "tsi" :english "Tsimshian"}
+ :middle-high-german
+ {:french "Allemand moyen haut "
+  :alpha3-b "gmh"
+  :english "Middle high german"}
+ :tigre {:french "Tigré" :alpha3-b "tig" :english "Tigre"}
+ :indonesian
+ {:french "Indonésien"
+  :alpha2 "id"
+  :alpha3-b "ind"
+  :english "Indonesian"}
+ :northern-sami
+ {:french "Sami du nord"
+  :alpha2 "se"
+  :alpha3-b "sme"
+  :english "Northern sami"}
+ :basque
+ {:french "Basque"
+  :alpha2 "eu"
+  :alpha3-b "baq"
+  :alpha3-t "eus"
+  :english "Basque"}
+ :maori
+ {:french "Maori"
+  :alpha2 "mi"
+  :alpha3-b "mao"
+  :alpha3-t "mri"
+  :english "Maori"}
+ :bosnian
+ {:french "Bosniaque"
+  :alpha2 "bs"
+  :alpha3-b "bos"
+  :english "Bosnian"}
+ :fang {:french "Fang" :alpha3-b "fan" :english "Fang"}
+ :swiss-german
+ {:french "Suisse alémanique"
+  :alpha3-b "gsw"
+  :english "Swiss german"}
+ :crimean-tatar
+ {:french "Tatar de crimé" :alpha3-b "crh" :english "Crimean tatar"}
+ :undetermined
+ {:french "Indéterminée" :alpha3-b "und" :english "Undetermined"}
+ :lamba {:french "Lamba" :alpha3-b "lam" :english "Lamba"}
+ :cree
+ {:french "Cree" :alpha2 "cr" :alpha3-b "cre" :english "Cree"}
+ :urdu
+ {:french "Ourdou" :alpha2 "ur" :alpha3-b "urd" :english "Urdu"}
+ :luo {:french "Luo " :alpha3-b "luo" :english "Luo "}
+ :old-french
+ {:french "Français ancien" :alpha3-b "fro" :english "Old french"}
+ :middle-irish
+ {:french "Irlandais moyen" :alpha3-b "mga" :english "Middle irish"}
+ :mongo {:french "Mongo" :alpha3-b "lol" :english "Mongo"}
+ :adyghe {:french "Adyghé" :alpha3-b "ady" :english "Adyghe"}
+ :assamese
+ {:french "Assamais"
+  :alpha2 "as"
+  :alpha3-b "asm"
+  :english "Assamese"}
+ :limburgish
+ {:french "Limbourgeois"
+  :alpha2 "li"
+  :alpha3-b "lim"
+  :english "Limburgish"}
+ :sakan {:french "Sakan" :alpha3-b "kho" :english "Sakan"}
+ :english-based-creoles-and-pidgins
+ {:french "Créoles et pidgins basés sur l'anglais"
+  :alpha3-b "cpe"
+  :english "English based creoles and pidgins"}
+ :minangkabau
+ {:french "Minangkabau" :alpha3-b "min" :english "Minangkabau"}
+ :volapük
+ {:french "Volapük"
+  :alpha2 "vo"
+  :alpha3-b "vol"
+  :english "Volapük"}
+ :hawaiian {:french "Hawaïen" :alpha3-b "haw" :english "Hawaiian"}
+ :acoli {:french "Acoli" :alpha3-b "ach" :english "Acoli"}
+ :corsican
+ {:french "Corse" :alpha2 "co" :alpha3-b "cos" :english "Corsican"}
+ :classical-syriac
+ {:french "Syriaque classique"
+  :alpha3-b "syc"
+  :english "Classical syriac"}
+ :norwegian-bokmål
+ {:french "Norvégien bokmål"
+  :alpha2 "nb"
+  :alpha3-b "nob"
+  :english "Norwegian bokmål"}
+ :slovak
+ {:french "Slovaque"
+  :alpha2 "sk"
+  :alpha3-b "slo"
+  :alpha3-t "slk"
+  :english "Slovak"}
+ :bashkir
+ {:french "Bachkir"
+  :alpha2 "ba"
+  :alpha3-b "bak"
+  :english "Bashkir"}
+ :nyamwezi {:french "Nyamwezi" :alpha3-b "nym" :english "Nyamwezi"}
+ :western-frisian
+ {:french "Frison occidental"
+  :alpha2 "fy"
+  :alpha3-b "fry"
+  :english "Western frisian"}
+ :masai {:french "Massaï" :alpha3-b "mas" :english "Masai"}
+ :interlingua
+ {:french "Interlingua"
+  :alpha2 "ia"
+  :alpha3-b "ina"
+  :english "Interlingua"}
+ :bulgarian
+ {:french "Bulgare"
+  :alpha2 "bg"
+  :alpha3-b "bul"
+  :english "Bulgarian"}
+ :south-ndebele
+ {:french "Ndébélé du sud"
+  :alpha2 "nr"
+  :alpha3-b "nbl"
+  :english "South ndebele"}
+ :old-persian
+ {:french "Perse vieux" :alpha3-b "peo" :english "Old persian"}
+ :ojibwa
+ {:french "Ojibwa" :alpha2 "oj" :alpha3-b "oji" :english "Ojibwa"}
+ :yakut {:french "Iakoute" :alpha3-b "sah" :english "Yakut"}
+ :mirandese
+ {:french "Mirandais" :alpha3-b "mwl" :english "Mirandese"}
+ :north-american-indian-languages
+ {:french "Nord-amérindiennes langues"
+  :alpha3-b "nai"
+  :english "North american indian languages"}
+ :marshallese
+ {:french "Marshall"
+  :alpha2 "mh"
+  :alpha3-b "mah"
+  :english "Marshallese"}
+ :apache-languages
+ {:french "Apaches langues"
+  :alpha3-b "apa"
+  :english "Apache languages"}
+ :icelandic
+ {:french "Islandais"
+  :alpha2 "is"
+  :alpha3-b "ice"
+  :alpha3-t "isl"
+  :english "Icelandic"}
+ :adangme {:french "Adangme" :alpha3-b "ada" :english "Adangme"}
+ :chinook-jargon
+ {:french "Chinook jargon"
+  :alpha3-b "chn"
+  :english "Chinook jargon"}
+ :swati
+ {:french "Swati" :alpha2 "ss" :alpha3-b "ssw" :english "Swati"}
+ :russian
+ {:french "Russe" :alpha2 "ru" :alpha3-b "rus" :english "Russian"}
+ :sino-tibetan-languages
+ {:french "Sino-tibétaines langues"
+  :alpha3-b "sit"
+  :english "Sino-tibetan languages"}
+ :dutch
+ {:french "Néerlandais"
+  :alpha2 "nl"
+  :alpha3-b "dut"
+  :alpha3-t "nld"
+  :english "Dutch"}
+ :akan
+ {:french "Akan" :alpha2 "ak" :alpha3-b "aka" :english "Akan"}
+ :latin
+ {:french "Latin" :alpha2 "la" :alpha3-b "lat" :english "Latin"}
+ :romany {:french "Tsigane" :alpha3-b "rom" :english "Romany"}
+ :chipewyan
+ {:french "Chipewyan" :alpha3-b "chp" :english "Chipewyan"}
+ :gayo {:french "Gayo" :alpha3-b "gay" :english "Gayo"}
+ :malay
+ {:french "Malais"
+  :alpha2 "ms"
+  :alpha3-b "may"
+  :alpha3-t "msa"
+  :english "Malay"}
+ :kara-kalpak
+ {:french "Karakalpak" :alpha3-b "kaa" :english "Kara-kalpak"}
+ :serer {:french "Sérère" :alpha3-b "srr" :english "Serer"}
+ :salishan-languages
+ {:french "Salishennes langues"
+  :alpha3-b "sal"
+  :english "Salishan languages"}
+ :mapuce {:french "Mapuche" :alpha3-b "arn" :english "Mapuche"}
+ :aleut {:french "Aléoute" :alpha3-b "ale" :english "Aleut"}
+ :rarotongan
+ {:french "Rarotonga" :alpha3-b "rar" :english "Rarotongan"}
+ :maltese
+ {:french "Maltais"
+  :alpha2 "mt"
+  :alpha3-b "mlt"
+  :english "Maltese"}
+ :lojban {:french "Lojban" :alpha3-b "jbo" :english "Lojban"}
+ :mende {:french "Mendé" :alpha3-b "men" :english "Mende"}
+ :twi {:french "Twi" :alpha2 "tw" :alpha3-b "twi" :english "Twi"}
+ :grebo {:french "Grebo" :alpha3-b "grb" :english "Grebo"}
+ :telugu
+ {:french "Télougou"
+  :alpha2 "te"
+  :alpha3-b "tel"
+  :english "Telugu"}
+ :oldenglish
+ {:french "Anglo-saxon" :alpha3-b "ang" :english "Old english"}
+ :dinka {:french "Dinka" :alpha3-b "din" :english "Dinka"}
+ :dravidian-languages
+ {:french "Dravidiennes langues"
+  :alpha3-b "dra"
+  :english "Dravidian languages"}
+ :kapampangan
+ {:french "Pampangan" :alpha3-b "pam" :english "Kapampangan"}
+ :interlingue
+ {:french "Interlingue"
+  :alpha2 "ie"
+  :alpha3-b "ile"
+  :english "Interlingue"}
+ :ukrainian
+ {:french "Ukrainien"
+  :alpha2 "uk"
+  :alpha3-b "ukr"
+  :english "Ukrainian"}
+ :dakota {:french "Dakota" :alpha3-b "dak" :english "Dakota"}
+ :kimbundu {:french "Kimbundu" :alpha3-b "kmb" :english "Kimbundu"}
+ :portuguese-based-creoles-and-pidgins
+ {:french "Créoles et pidgins basés sur le portugais"
+  :alpha3-b "cpp"
+  :english "Portuguese-based creoles and pidgins"}
+ :sorbian-languages
+ {:french "Sorabes langues"
+  :alpha3-b "wen"
+  :english "Sorbian languages"}
+ :old-irish
+ {:french "Irlandais ancien" :alpha3-b "sga" :english "Old irish"}
+ :tswana
+ {:french "Tswana" :alpha2 "tn" :alpha3-b "tsn" :english "Tswana"}
+ :old-norse
+ {:french "Norrois vieux" :alpha3-b "non" :english "Norse old"}
+ :reserved-for-local-use
+ {:french "Réservée à l'usage local"
+  :alpha3-b "qaa-qtz"
+  :english "Reserved for local use"}
+ :estonian
+ {:french "Estonien"
+  :alpha2 "et"
+  :alpha3-b "est"
+  :english "Estonian"}
+ :lozi {:french "Lozi" :alpha3-b "loz" :english "Lozi"}
+ :pangasinan
+ {:french "Pangasinan" :alpha3-b "pag" :english "Pangasinan"}
+ :indic-languages
+ {:french "Indo-aryennes langues"
+  :alpha3-b "inc"
+  :english "Indic languages"}
+ :pahlavi {:french "Pahlavi" :alpha3-b "pal" :english "Pahlavi"}
+ :haitian
+ {:french "Haïtien"
+  :alpha2 "ht"
+  :alpha3-b "hat"
+  :english "Haitian"}
+ :hmong {:french "Hmong" :alpha3-b "hmn" :english "Hmong"}
+ :aymara
+ {:french "Aymara" :alpha2 "ay" :alpha3-b "aym" :english "Aymara"}
+ :vai {:french "Vaï" :alpha3-b "vai" :english "Vai"}
+ :middle-dutch
+ {:french "Néerlandais moyen"
+  :alpha3-b "dum"
+  :english "Middle dutch"}
+ :gorontalo
+ {:french "Gorontalo" :alpha3-b "gor" :english "Gorontalo"}
+ :old-high-german
+ {:french "Allemand vieux haut"
+  :alpha3-b "goh"
+  :english "Old high german"}
+ :sardinian
+ {:french "Sarde"
+  :alpha2 "sc"
+  :alpha3-b "srd"
+  :english "Sardinian"}
+ :phoenician
+ {:french "Phénicien" :alpha3-b "phn" :english "Phoenician"}
+ :chibcha {:french "Chibcha" :alpha3-b "chb" :english "Chibcha"}
+ :blissymbols
+ {:french "Symboles bliss" :alpha3-b "zbl" :english "Blissymbols"}
+ :artificial-languages
+ {:french "Artificielles langues"
+  :alpha3-b "art"
+  :english "Artificial languages"}
+ :imperial-aramaic
+ {:french "Araméen d'empire"
+  :alpha3-b "arc"
+  :english "Imperial aramaic"}
+ :chagatai {:french "Djaghataï" :alpha3-b "chg" :english "Chagatai"}
+ :javanese
+ {:french "Javanais"
+  :alpha2 "jv"
+  :alpha3-b "jav"
+  :english "Javanese"}
+ :sindhi
+ {:french "Sindhi" :alpha2 "sd" :alpha3-b "snd" :english "Sindhi"}
+ :haida {:french "Haida" :alpha3-b "hai" :english "Haida"}
+ :nahuatl-languages
+ {:french "Nahuatl langues"
+  :alpha3-b "nah"
+  :english "Nahuatl languages"}
+ :finnish
+ {:french "Finnois"
+  :alpha2 "fi"
+  :alpha3-b "fin"
+  :english "Finnish"}
+ :niuean {:french "Niué" :alpha3-b "niu" :english "Niuean"}
+ :sichuan-yi
+ {:french "Yi de sichuan"
+  :alpha2 "ii"
+  :alpha3-b "iii"
+  :english "Sichuan yi"}
+ :samaritan-aramaic
+ {:french "Samaritain" :alpha3-b "sam" :english "Samaritan aramaic"}
+ :punjabi
+ {:french "Pendjabi"
+  :alpha2 "pa"
+  :alpha3-b "pan"
+  :english "Punjabi"}
+ :malayalam
+ {:french "Malayalam"
+  :alpha2 "ml"
+  :alpha3-b "mal"
+  :english "Malayalam"}
+ :ugaritic
+ {:french "Ougaritique" :alpha3-b "uga" :english "Ugaritic"}
+ :rapanui {:french "Rapanui" :alpha3-b "rap" :english "Rapanui"}
+ :maithili {:french "Maithili" :alpha3-b "mai" :english "Maithili"}
+ :uighur
+ {:french "Ouïgour" :alpha2 "ug" :alpha3-b "uig" :english "Uighur"}
+ :sinhalese
+ {:french "Singhalais"
+  :alpha2 "si"
+  :alpha3-b "sin"
+  :english "Sinhalese"}
+ :somali
+ {:french "Somali" :alpha2 "so" :alpha3-b "som" :english "Somali"}
+ :vietnamese
+ {:french "Vietnamien"
+  :alpha2 "vi"
+  :alpha3-b "vie"
+  :english "Vietnamese"}
+ :bhojpuri {:french "Bhojpuri" :alpha3-b "bho" :english "Bhojpuri"}
+ :athapascan-languages
+ {:french "Athapascanes langues"
+  :alpha3-b "ath"
+  :english "Athapascan languages"}
+ :scottish-gaelic
+ {:french "Gaélique écossais"
+  :alpha2 "gd"
+  :alpha3-b "gla"
+  :english "Scottish gaelic"}
+ :dyula {:french "Dioula" :alpha3-b "dyu" :english "Dyula"}
+ :hittite {:french "Hittite" :alpha3-b "hit" :english "Hittite"}
+ :cornish
+ {:french "Cornique"
+  :alpha2 "kw"
+  :alpha3-b "cor"
+  :english "Cornish"}
+ :mon-khmer-languages
+ {:french "Môn-khmer langues"
+  :alpha3-b "mkh"
+  :english "Mon-khmer languages"}
+ :dogrib {:french "Dogrib" :alpha3-b "dgr" :english "Dogrib"}
+ :occitan
+ {:french "Occitan"
+  :alpha2 "oc"
+  :alpha3-b "oci"
+  :english "Occitan"}
+ :old-provencal
+ {:french "Provençal ancien"
+  :alpha3-b "pro"
+  :english "Old provençal"}
+ :erzya {:french "Erza" :alpha3-b "myv" :english "Erzya"}
+ :iloko {:french "Ilocano" :alpha3-b "ilo" :english "Iloko"}
+ :iranian-languages
+ {:french "Iraniennes langues"
+  :alpha3-b "ira"
+  :english "Iranian languages"}
+ :friulian {:french "Frioulan" :alpha3-b "fur" :english "Friulian"}
+ :turkish
+ {:french "Turc" :alpha2 "tr" :alpha3-b "tur" :english "Turkish"}
+ :ijo-languages
+ {:french "Ijo langues" :alpha3-b "ijo" :english "Ijo languages"}
+ :kalaallisut
+ {:french "Groenlandais"
+  :alpha2 "kl"
+  :alpha3-b "kal"
+  :english "Kalaallisut"}
+ :thai
+ {:french "Thaï" :alpha2 "th" :alpha3-b "tha" :english "Thai"}
+ :italian
+ {:french "Italien"
+  :alpha2 "it"
+  :alpha3-b "ita"
+  :english "Italian"}
+ :manchu {:french "Mandchou" :alpha3-b "mnc" :english "Manchu"}
+ :rajasthani
+ {:french "Rajasthani" :alpha3-b "raj" :english "Rajasthani"}
+ :madurese {:french "Madourais" :alpha3-b "mad" :english "Madurese"}
+ :croatian
+ {:french "Croate"
+  :alpha2 "hr"
+  :alpha3-b "hrv"
+  :english "Croatian"}
+ :low-german
+ {:french "Bas allemand" :alpha3-b "nds" :english "Low german"}
+ :selkup {:french "Selkoupe" :alpha3-b "sel" :english "Selkup"}
+ :cebuano {:french "Cebuano" :alpha3-b "ceb" :english "Cebuano"}
+ :tatar
+ {:french "Tatar" :alpha2 "tt" :alpha3-b "tat" :english "Tatar"}
+ :papuan-languages
+ {:french "Papoues langues"
+  :alpha3-b "paa"
+  :english "Papuan languages"}
+ :inupiaq
+ {:french "Inupiaq"
+  :alpha2 "ik"
+  :alpha3-b "ipk"
+  :english "Inupiaq"}
+ :lezghian {:french "Lezghien" :alpha3-b "lez" :english "Lezghian"}
+ :luiseno {:french "Luiseno" :alpha3-b "lui" :english "Luiseno"}
+ :afro-asiatic-languages
+ {:french "Afro-asiatiques langues"
+  :alpha3-b "afa"
+  :english "Afro-asiatic languages"}
+ :old-church-slavic
+ {:french "Slavon d'église"
+  :alpha2 "cu"
+  :alpha3-b "chu"
+  :english "Old church slavonic"}
+ :makasar {:french "Makassar" :alpha3-b "mak" :english "Makasar"}
+ :tlingit {:french "Tlingit" :alpha3-b "tli" :english "Tlingit"}
+ :gbaya {:french "Gbaya" :alpha3-b "gba" :english "Gbaya"}
+ :french-based-creoles-and-pidgins
+ {:french "Créoles et pidgins basés sur le français"
+  :alpha3-b "cpf"
+  :english "French-based creoles and pidgins"}
+ :delaware {:french "Delaware" :alpha3-b "del" :english "Delaware"}
+ :kyrgyz
+ {:french "Kirghiz" :alpha2 "ky" :alpha3-b "kir" :english "Kyrgyz"}
+ :bantu-languages
+ {:french "Bantou langues"
+  :alpha3-b "bnt"
+  :english "Bantu languages"}
+ :faroese
+ {:french "Féroïen"
+  :alpha2 "fo"
+  :alpha3-b "fao"
+  :english "Faroese"}
+ :yupik-languages
+ {:french "Yupik langues"
+  :alpha3-b "ypk"
+  :english "Yupik languages"}
+ :judeo-arabic
+ {:french "Judéo-arabe" :alpha3-b "jrb" :english "Judeo-arabic"}
+ :galibi-carib
+ {:french "Karib" :alpha3-b "car" :english "Galibi carib"}
+ :nilo-saharan-languages
+ {:french "Nilo-sahariennes langues"
+  :alpha3-b "ssa"
+  :english "Nilo-saharan languages"}
+ :standard-moroccan-tamazight
+ {:french "Amazighe standard marocain"
+  :alpha3-b "zgh"
+  :english "Standard moroccan tamazight"}
+ :awadhi {:french "Awadhi" :alpha3-b "awa" :english "Awadhi"}
+ :gondi {:french "Gond" :alpha3-b "gon" :english "Gondi"}
+ :gujarati
+ {:french "Goudjrati"
+  :alpha2 "gu"
+  :alpha3-b "guj"
+  :english "Gujarati"}
+ :kru-languages
+ {:french "Krou langues" :alpha3-b "kro" :english "Kru languages"}
+ :ewe {:french "Éwé" :alpha2 "ee" :alpha3-b "ewe" :english "Ewe"}
+ :cherokee {:french "Cherokee" :alpha3-b "chr" :english "Cherokee"}
+ :hiri-motu
+ {:french "Hiri motu"
+  :alpha2 "ho"
+  :alpha3-b "hmo"
+  :english "Hiri motu"}
+ :chechen
+ {:french "Tchétchène"
+  :alpha2 "ce"
+  :alpha3-b "che"
+  :english "Chechen"}
+ :kalmyk {:french "Kalmouk" :alpha3-b "xal" :english "Kalmyk"}
+ :azerbaijani
+ {:french "Azéri"
+  :alpha2 "az"
+  :alpha3-b "aze"
+  :english "Azerbaijani"}
+ :tumbuka {:french "Tumbuka" :alpha3-b "tum" :english "Tumbuka"}
+ :inari-sami
+ {:french "Sami d'inari" :alpha3-b "smn" :english "Inari sami"}
+ :yao {:french "Yao" :alpha3-b "yao" :english "Yao"}
+ :bambara
+ {:french "Bambara"
+  :alpha2 "bm"
+  :alpha3-b "bam"
+  :english "Bambara"}
+ :welsh
+ {:french "Gallois"
+  :alpha2 "cy"
+  :alpha3-b "wel"
+  :alpha3-t "cym"
+  :english "Welsh"}
+ :manobo-languages
+ {:french "Manobo langues"
+  :alpha3-b "mno"
+  :english "Manobo languages"}
+ :ewondo {:french "Éwondo" :alpha3-b "ewo" :english "Ewondo"}
+ :lule-sami
+ {:french "Sami de lule" :alpha3-b "smj" :english "Lule sami"}
+ :north-ndebele
+ {:french "Ndébélé du nord"
+  :alpha2 "nd"
+  :alpha3-b "nde"
+  :english "North ndebele"}
+ :chamorro
+ {:french "Chamorro"
+  :alpha2 "ch"
+  :alpha3-b "cha"
+  :english "Chamorro"}
+ :tibetan
+ {:french "Tibétain"
+  :alpha2 "bo"
+  :alpha3-b "tib"
+  :alpha3-t "bod"
+  :english "Tibetan"}
+ :sasak {:french "Sasak" :alpha3-b "sas" :english "Sasak"}
+ :hiligaynon
+ {:french "Hiligaynon" :alpha3-b "hil" :english "Hiligaynon"}
+ :kabyle {:french "Kabyle" :alpha3-b "kab" :english "Kabyle"}
+ :hupa {:french "Hupa" :alpha3-b "hup" :english "Hupa"}
+ :modern-greek
+ {:french "Grec"
+  :alpha2 "el"
+  :alpha3-b "gre"
+  :alpha3-t "ell"
+  :english "Greek"}
+ :montenegrin
+ {:french "Monténégrin" :alpha3-b "cnr" :english "Montenegrin"}
+ :avestan
+ {:french "Avestique"
+  :alpha2 "ae"
+  :alpha3-b "ave"
+  :english "Avestan"}
+ :norwegian-nynorsk
+ {:french "Norvégien nynorsk"
+  :alpha2 "nn"
+  :alpha3-b "nno"
+  :english "Norwegian nynorsk"}
+ :zapotec {:french "Zapotèque" :alpha3-b "zap" :english "Zapotec"}
+ :buginese {:french "Bugi" :alpha3-b "bug" :english "Buginese"}
+ :philippine-languages
+ {:french "Philippines langues"
+  :alpha3-b "phi"
+  :english "Philippine languages"}
+ :konkani {:french "Konkani" :alpha3-b "kok" :english "Konkani"}
+ :rundi
+ {:french "Rundi" :alpha2 "rn" :alpha3-b "run" :english "Rundi"}
+ :lunda {:french "Lunda" :alpha3-b "lun" :english "Lunda"}
+ :kumyk {:french "Koumyk" :alpha3-b "kum" :english "Kumyk"}
+ :altaic-languages
+ {:french "Altaïques langues"
+  :alpha3-b "tut"
+  :english "Altaic languages"}
+ :baltic-languages
+ {:french "Baltes langues"
+  :alpha3-b "bat"
+  :english "Baltic languages"}
+ :sundanese
+ {:french "Soundanais"
+  :alpha2 "su"
+  :alpha3-b "sun"
+  :english "Sundanese"}
+ :shan {:french "Chan" :alpha3-b "shn" :english "Shan"}
+ :judeo-persian
+ {:french "Judéo-persan" :alpha3-b "jpr" :english "Judeo-persian"}
+ :tereno {:french "Tereno" :alpha3-b "ter" :english "Tereno"}
+ :ido {:french "Ido" :alpha2 "io" :alpha3-b "ido" :english "Ido"}
+ :ossetian
+ {:french "Ossète"
+  :alpha2 "os"
+  :alpha3-b "oss"
+  :english "Ossetian"}
+ :dargwa {:french "Dargwa" :alpha3-b "dar" :english "Dargwa"}
+ :igbo
+ {:french "Igbo" :alpha2 "ig" :alpha3-b "ibo" :english "Igbo"}
+ :guarani
+ {:french "Guarani"
+  :alpha2 "gn"
+  :alpha3-b "grn"
+  :english "Guarani"}
+ :elamite {:french "Élamite" :alpha3-b "elx" :english "Elamite"}
+ :albanian
+ {:french "Albanais"
+  :alpha2 "sq"
+  :alpha3-b "alb"
+  :alpha3-t "sqi"
+  :english "Albanian"}
+ :n'ko {:french "N'ko" :alpha3-b "nqo" :english "N'ko"}
+ :mossi {:french "Moré" :alpha3-b "mos" :english "Mossi"}
+ :baluchi {:french "Baloutchi" :alpha3-b "bal" :english "Baluchi"}
+ :newari {:french "Newari" :alpha3-b "new" :english "Newari"}
+ :slovenian
+ {:french "Slovène"
+  :alpha2 "sl"
+  :alpha3-b "slv"
+  :english "Slovenian"}
+ :english
+ {:french "Anglais"
+  :alpha2 "en"
+  :alpha3-b "eng"
+  :english "English"}
+ :kabardian
+ {:french "Kabardien" :alpha3-b "kbd" :english "Kabardian"}
+ :eastern-frisian
+ {:french "Frison oriental"
+  :alpha3-b "frs"
+  :english "Eastern frisian"}
+ :zaza {:french "Zaza" :alpha3-b "zza" :english "Zaza"}
+ :luba-lulua
+ {:french "Luba-lulua" :alpha3-b "lua" :english "Luba-lulua"}
+ :tupi-languages
+ {:french "Tupi langues" :alpha3-b "tup" :english "Tupi languages"}
+ :caucasian-languages
+ {:french "Caucasiennes langues"
+  :alpha3-b "cau"
+  :english "Caucasian languages"}
+ :upper-sorbian
+ {:french "Haut-sorabe" :alpha3-b "hsb" :english "Upper sorbian"}
+ :persian
+ {:french "Persan"
+  :alpha2 "fa"
+  :alpha3-b "per"
+  :alpha3-t "fas"
+  :english "Persian"}
+ :nias {:french "Nias" :alpha3-b "nia" :english "Nias"}
+ :hebrew
+ {:french "Hébreu" :alpha2 "he" :alpha3-b "heb" :english "Hebrew"}
+ :kwanyama
+ {:french "Kwanyama"
+  :alpha2 "kj"
+  :alpha3-b "kua"
+  :english "Kwanyama"}
+ :northern-frisian
+ {:french "Frison septentrional"
+  :alpha3-b "frr"
+  :english "Northern frisian"}
+ :nyankole {:french "Nyankolé" :alpha3-b "nyn" :english "Nyankole"}
+ :filipino {:french "Filipino" :alpha3-b "fil" :english "Filipino"}
+ :lao {:french "Lao" :alpha2 "lo" :alpha3-b "lao" :english "Lao"}
+ :turkmen
+ {:french "Turkmène"
+  :alpha2 "tk"
+  :alpha3-b "tuk"
+  :english "Turkmen"}
+ :galician
+ {:french "Galicien"
+  :alpha2 "gl"
+  :alpha3-b "glg"
+  :english "Galician"}
+ :finno-ugrian-languages
+ {:french "Finno-ougriennes langues"
+  :alpha3-b "fiu"
+  :english "Finno-ugrian languages"}
+ :pali
+ {:french "Pali" :alpha2 "pi" :alpha3-b "pli" :english "Pali"}
+ :siksika {:french "Blackfoot" :alpha3-b "bla" :english "Siksika"}
+ :tuvalu {:french "Tuvalu" :alpha3-b "tvl" :english "Tuvalu"}
+ :creek {:french "Muskogee" :alpha3-b "mus" :english "Creek"}
+ :geez {:french "Guèze" :alpha3-b "gez" :english "Geez"}
+ :northern-sotho
+ {:french "Sotho du nord" :alpha3-b "nso" :english "Northern sotho"}
+ :kashmiri
+ {:french "Kashmiri"
+  :alpha2 "ks"
+  :alpha3-b "kas"
+  :english "Kashmiri"}
+ :georgian
+ {:french "Géorgien"
+  :alpha2 "ka"
+  :alpha3-b "geo"
+  :alpha3-t "kat"
+  :english "Georgian"}
+ :tajik
+ {:french "Tadjik" :alpha2 "tg" :alpha3-b "tgk" :english "Tajik"}
+ :efik {:french "Efik" :alpha3-b "efi" :english "Efik"}
+ :egyptian {:french "Égyptien" :alpha3-b "egy" :english "Egyptian"}
+ :lower-sorbian
+ {:french "Bas-sorabe" :alpha3-b "dsb" :english "Lower sorbian"}
+ :bemba {:french "Bemba" :alpha3-b "bem" :english "Bemba"}
+ :khoisan-languages
+ {:french "Khoïsan langues"
+  :alpha3-b "khi"
+  :english "Khoisan languages"}
+ :niger-kordofanian-languages
+ {:french "Nigéro-kordofaniennes langues"
+  :alpha3-b "nic"
+  :english "Niger-kordofanian languages"}
+ :kanuri
+ {:french "Kanouri" :alpha2 "kr" :alpha3-b "kau" :english "Kanuri"}
+ :tagalog
+ {:french "Tagalog"
+  :alpha2 "tl"
+  :alpha3-b "tgl"
+  :english "Tagalog"}
+ :wolaitta {:french "Wolaitta" :alpha3-b "wal" :english "Wolaitta"}
+ :yapese {:french "Yapois" :alpha3-b "yap" :english "Yapese"}
+ :algonquian-languages
+ {:french "Algonquines langues"
+  :alpha3-b "alg"
+  :english "Algonquian languages"}
+ :iroquoian-languages
+ {:french "Iroquoises langues"
+  :alpha3-b "iro"
+  :english "Iroquoian languages"}
+ :swedish
+ {:french "Suédois"
+  :alpha2 "sv"
+  :alpha3-b "swe"
+  :english "Swedish"}
+ :udmurt {:french "Oudmourte" :alpha3-b "udm" :english "Udmurt"}
+ :neapolitan
+ {:french "Napolitain" :alpha3-b "nap" :english "Neapolitan"}
+ :tok-pisin
+ {:french "Tok pisin" :alpha3-b "tpi" :english "Tok pisin"}
+ :fanti {:french "Fanti" :alpha3-b "fat" :english "Fanti"}
+ :ancient-greek
+ {:french "Grec ancien" :alpha3-b "grc" :english "Ancient greek"}
+ :afrikaans
+ {:french "Afrikaans"
+  :alpha2 "af"
+  :alpha3-b "afr"
+  :english "Afrikaans"}
+ :munda-languages
+ {:french "Mounda langues"
+  :alpha3-b "mun"
+  :english "Munda languages"}
+ :korean
+ {:french "Coréen" :alpha2 "ko" :alpha3-b "kor" :english "Korean"}
+ :central-khmer
+ {:french "Khmer central"
+  :alpha2 "km"
+  :alpha3-b "khm"
+  :english "Central khmer"}
+ :magahi {:french "Magahi" :alpha3-b "mag" :english "Magahi"}
+ :lingala
+ {:french "Lingala"
+  :alpha2 "ln"
+  :alpha3-b "lin"
+  :english "Lingala"}
+ :manx
+ {:french "Manx" :alpha2 "gv" :alpha3-b "glv" :english "Manx"}
+ :middle-french
+ {:french "Français moyen" :alpha3-b "frm" :english "Middle french"}
+ :nyoro {:french "Nyoro" :alpha3-b "nyo" :english "Nyoro"}
+ :macedonian
+ {:french "Macédonien"
+  :alpha2 "mk"
+  :alpha3-b "mac"
+  :alpha3-t "mkd"
+  :english "Macedonian"}
+ :kazakh
+ {:french "Kazakh" :alpha2 "kk" :alpha3-b "kaz" :english "Kazakh"}
+ :mandar {:french "Mandar" :alpha3-b "mdr" :english "Mandar"}
+ :waray {:french "Waray" :alpha3-b "war" :english "Waray"}
+ :soninke {:french "Soninké" :alpha3-b "snk" :english "Soninke"}
+ :kawi {:french "Kawi" :alpha3-b "kaw" :english "Kawi"}
+ :bamileke-languages
+ {:french "Bamiléké langues"
+  :alpha3-b "bai"
+  :english "Bamileke languages"}
+ :nepali
+ {:french "Népalais"
+  :alpha2 "ne"
+  :alpha3-b "nep"
+  :english "Nepali"}
+ :iban {:french "Iban" :alpha3-b "iba" :english "Iban"}
+ :uzbek
+ {:french "Ouszbek" :alpha2 "uz" :alpha3-b "uzb" :english "Uzbek"}
+ :german
+ {:french "Allemand"
+  :alpha2 "de"
+  :alpha3-b "ger"
+  :alpha3-t "deu"
+  :english "German"}
+ :oromo
+ {:french "Galla" :alpha2 "om" :alpha3-b "orm" :english "Oromo"}
+ :mongolian
+ {:french "Mongol"
+  :alpha2 "mn"
+  :alpha3-b "mon"
+  :english "Mongolian"}
+ :blin {:french "Blin" :alpha3-b "byn" :english "Blin"}
+ :afar
+ {:french "Afar" :alpha2 "aa" :alpha3-b "aar" :english "Afar"}
+ :south-american-indian-languages
+ {:french "Sud-amérindiennes langues"
+  :alpha3-b "sai"
+  :english "South american indian languages"}
+ :sicilian {:french "Sicilien" :alpha3-b "scn" :english "Sicilian"}
+ :creoles-and-pidgins
+ {:french "Créoles et pidgins"
+  :alpha3-b "crp"
+  :english "Creoles and pidgins"}
+ :tamashek {:french "Tamacheq" :alpha3-b "tmh" :english "Tamashek"}
+ :papiamento
+ {:french "Papiamento" :alpha3-b "pap" :english "Papiamento"}
+ :belarusian
+ {:french "Biélorusse"
+  :alpha2 "be"
+  :alpha3-b "bel"
+  :english "Belarusian"}
+ :slave {:french "Esclave" :alpha3-b "den" :english "Slave"}
+ :kikuyu
+ {:french "Kikuyu" :alpha2 "ki" :alpha3-b "kik" :english "Kikuyu"}
+ :nzima {:french "Nzema" :alpha3-b "nzi" :english "Nzima"}
+ :syriac {:french "Syriaque" :alpha3-b "syr" :english "Syriac"}
+ :ganda
+ {:french "Ganda" :alpha2 "lg" :alpha3-b "lug" :english "Ganda"}
+ :ingush {:french "Ingouche" :alpha3-b "inh" :english "Ingush"}
+ :mari {:french "Mari" :alpha3-b "chm" :english "Mari"}
+ :klingon {:french "Klingon" :alpha3-b "tlh" :english "Klingon"}
+ :tetum {:french "Tetum" :alpha3-b "tet" :english "Tetum"}
+ :arawak {:french "Arawak" :alpha3-b "arw" :english "Arawak"}
+ :navajo
+ {:french "Navajo" :alpha2 "nv" :alpha3-b "nav" :english "Navajo"}
+ :sango
+ {:french "Sango" :alpha2 "sg" :alpha3-b "sag" :english "Sango"}
+ :tuvinian {:french "Touva" :alpha3-b "tyv" :english "Tuvinian"}
+ :santali {:french "Santal" :alpha3-b "sat" :english "Santali"}
+ :luxembourgish
+ {:french "Luxembourgeois"
+  :alpha2 "lb"
+  :alpha3-b "ltz"
+  :english "Luxembourgish"}
+ :nauru
+ {:french "Nauruan" :alpha2 "na" :alpha3-b "nau" :english "Nauru"}
+ :prakrit-languages
+ {:french "Prâkrit langues"
+  :alpha3-b "pra"
+  :english "Prakrit languages"}
+ :spanish
+ {:french "Espagnol"
+  :alpha2 "es"
+  :alpha3-b "spa"
+  :english "Spanish"}
+ :moksha {:french "Moksa" :alpha3-b "mdf" :english "Moksha"}
+ :germanic-languages
+ {:french "Germaniques langues"
+  :alpha3-b "gem"
+  :english "Germanic languages"}
+ :sami-languages
+ {:french "Sames langues"
+  :alpha3-b "smi"
+  :english "Sami languages"}
+ :duala {:french "Douala" :alpha3-b "dua" :english "Duala"}
+ :beja {:french "Bedja" :alpha3-b "bej" :english "Beja"}
+ :banda-languages
+ {:french "Banda langues"
+  :alpha3-b "bad"
+  :english "Banda languages"}
+ :sanskrit
+ {:french "Sanskrit"
+  :alpha2 "sa"
+  :alpha3-b "san"
+  :english "Sanskrit"}
+ :asturian {:french "Asturien" :alpha3-b "ast" :english "Asturian"}
+ :indo-european-languages
+ {:french "Indo-européennes langues"
+  :alpha3-b "ine"
+  :english "Indo-european languages"}
+ :central-american-indian-languages
+ {:french "Amérindiennes de l'amérique centrale langues"
+  :alpha3-b "cai"
+  :english "Central american indian languages"}
+ :french
+ {:french "Français"
+  :alpha2 "fr"
+  :alpha3-b "fre"
+  :alpha3-t "fra"
+  :english "French"}
+ :kamba {:french "Kamba" :alpha3-b "kam" :english "Kamba"}
+ :sign-languages
+ {:french "Langues des signes"
+  :alpha3-b "sgn"
+  :english "Sign languages"}
+ :umbundu {:french "Umbundu" :alpha3-b "umb" :english "Umbundu"}
+ :marathi
+ {:french "Marathe"
+  :alpha2 "mr"
+  :alpha3-b "mar"
+  :english "Marathi"}
+ :songhai-languages
+ {:french "Songhai langues"
+  :alpha3-b "son"
+  :english "Songhai languages"}
+ :arabic
+ {:french "Arabe" :alpha2 "ar" :alpha3-b "ara" :english "Arabic"}
+ :old-newari
+ {:french "Newari classique" :alpha3-b "nwc" :english "Old newari"}
+ :manipuri {:french "Manipuri" :alpha3-b "mni" :english "Manipuri"}
+ :avaric
+ {:french "Avar" :alpha2 "av" :alpha3-b "ava" :english "Avaric"}
+ :southern-sami
+ {:french "Sami du sud" :alpha3-b "sma" :english "Southern sami"}
+ :hungarian
+ {:french "Hongrois"
+  :alpha2 "hu"
+  :alpha3-b "hun"
+  :english "Hungarian"}
+ :sukuma {:french "Sukuma" :alpha3-b "suk" :english "Sukuma"}
+ :kurukh {:french "Kurukh" :alpha3-b "kru" :english "Kurukh"}
+ :shona
+ {:french "Shona" :alpha2 "sn" :alpha3-b "sna" :english "Shona"}
+ :tiv {:french "Tiv" :alpha3-b "tiv" :english "Tiv"}
+ :akkadian {:french "Akkadien" :alpha3-b "akk" :english "Akkadian"}
+ :wolof
+ {:french "Wolof" :alpha2 "wo" :alpha3-b "wol" :english "Wolof"}
+ :tonga-nyasa
+ {:french "Tonga nyasa" :alpha3-b "tog" :english "Tonga nyasa"}
+ :gwich'in {:french "Gwich'in" :alpha3-b "gwi" :english "Gwich'in"}
+ :dogri {:french "Dogri" :alpha3-b "doi" :english "Dogri"}
+ :polish
+ {:french "Polonais"
+  :alpha2 "pl"
+  :alpha3-b "pol"
+  :english "Polish"}
+ :edo {:french "Edo" :alpha3-b "bin" :english "Edo "}
+ :buriat {:french "Bouriate" :alpha3-b "bua" :english "Buriat"}
+ :jingpho {:french "Jingpho" :alpha3-b "kac" :english "Jingpho"}
+ :nubian-languages
+ {:french "Nubiennes langues"
+  :alpha3-b "nub"
+  :english "Nubian languages"}
+ :zande-languages
+ {:french "Zandé langues"
+  :alpha3-b "znd"
+  :english "Zande languages"}
+ :choctaw {:french "Choctaw" :alpha3-b "cho" :english "Choctaw"}
+ :sumerian {:french "Sumérien" :alpha3-b "sux" :english "Sumerian"}
+ :fijian
+ {:french "Fidjien" :alpha2 "fj" :alpha3-b "fij" :english "Fijian"}
+ :batak-languages
+ {:french "Batak langues"
+  :alpha3-b "btk"
+  :english "Batak languages"}
+ :kannada
+ {:french "Kannada"
+  :alpha2 "kn"
+  :alpha3-b "kan"
+  :english "Kannada"}
+ :achinese {:french "Aceh" :alpha3-b "ace" :english "Achinese"}
+ :armenian
+ {:french "Arménien"
+  :alpha2 "hy"
+  :alpha3-b "arm"
+  :alpha3-t "hye"
+  :english "Armenian"}
+ :romansh
+ {:french "Romanche"
+  :alpha2 "rm"
+  :alpha3-b "roh"
+  :english "Romansh"}
+ :gilbertese
+ {:french "Kiribati" :alpha3-b "gil" :english "Gilbertese"}
+ :luba-katanga
+ {:french "Luba-katanga"
+  :alpha2 "lu"
+  :alpha3-b "lub"
+  :english "Luba-katanga"}
+ :southern-sotho
+ {:french "Sotho du sud"
+  :alpha2 "st"
+  :alpha3-b "sot"
+  :english "Sotho southern"}
+ :osage {:french "Osage" :alpha3-b "osa" :english "Osage"}
+ :arapaho {:french "Arapaho" :alpha3-b "arp" :english "Arapaho"}
+ :fulah
+ {:french "Peul" :alpha2 "ff" :alpha3-b "ful" :english "Fulah"}
+ :mayan-languages
+ {:french "Maya langues"
+  :alpha3-b "myn"
+  :english "Mayan languages"}
+ :latvian
+ {:french "Letton" :alpha2 "lv" :alpha3-b "lav" :english "Latvian"}
+ :balinese {:french "Balinais" :alpha3-b "ban" :english "Balinese"}}
