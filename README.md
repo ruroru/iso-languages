@@ -8,7 +8,7 @@ Provides functions to retrieve language information by ISO 639-1 (alpha-2), ISO 
 Add iso-languages to dependency list
 
 ```clojure
-[org.clojars.jj/iso-languages "1.0.0-SNAPSHOT"]
+[org.clojars.jj/iso-languages "1.0.0"]
 ```
 
 ## Usage
