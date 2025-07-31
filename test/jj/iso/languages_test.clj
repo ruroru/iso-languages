@@ -38,8 +38,18 @@
                                  )
 
   (are [language] (nil? (iso-languages/detect-language language))
-                  
-                  :country
+
+bytes                  :country
                   {}
                   1
                   nil))
+
+
+(deftest test-detect-lang-with-default
+  (are [language-code default-language expected-language]
+    (= expected-language (iso-languages/detect-language language-code default-language))
+    "got" :english :gothic
+    "GOT" :english :gothic
+    "tsi" :english :tsimshian
+    "aaa" :english :english
+    "not-existing" :german :german))
