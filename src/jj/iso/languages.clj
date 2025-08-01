@@ -27,16 +27,16 @@
   "Retrieves language information for the specified language identifier.
 
   Parameters:
-  language - A language identifier (string). Can be an ISO 639-1 alpha-2 code (e.g., \\\"en\\\"),
-  ISO 639-2 alpha-3 code (e.g., \\\"eng\\\"), or language name (e.g., \\\"English\\\").
+  language - A language identifier (string). Can be an ISO 639-1 alpha-2 code (e.g., \"en\"),
+  ISO 639-2 alpha-3 code (e.g., \"eng\"), or language name (e.g., \"English\").
 
   Returns:
   A map containing language information with the following keys:
-  :alpha2   - ISO 639-1 two-letter language code (e.g., \\\"en\\\")
-  :alpha3-b - ISO 639-2/B three-letter bibliographic code (e.g., \\\"eng\\\")
-  :alpha3-t - ISO 639-2/T three-letter terminologic code (e.g., \\\"eng\\\")
-  :english  - English name of the language (e.g., \\\"English\\\")
-  :french   - French name of the language (e.g., \\\"anglais\\\")
+  :alpha2   - ISO 639-1 two-letter language code (e.g., \"en\")
+  :alpha3-b - ISO 639-2/B three-letter bibliographic code (e.g., \"eng\")
+  :alpha3-t - ISO 639-2/T three-letter terminologic code (e.g., \"eng\")
+  :english  - English name of the language (e.g., \"English\")
+  :french   - French name of the language (e.g., \"anglais\")
 
   Returns nil if:
   - The language parameter is nil
@@ -65,16 +65,14 @@
    (when (not (nil? language))
      (let [lower-case-language (str/lower-case language)
            iso639-keyword (keyword lower-case-language)]
-
-       (when (and (not (.containsKey ^ConcurrentHashMap detect-language-cache iso639-keyword)))
-         (let [needed-lang (filter (fn [[_ rest]]
-                                     (some #(= lower-case-language (str/lower-case %))
-                                           (vals (select-keys rest [:english :french :alpha2 :alpha3-t :alpha3-b]))))
-                                   (get-all-languages))]
-           (when (not (empty? needed-lang))
-             (.put ^ConcurrentHashMap detect-language-cache iso639-keyword (-> needed-lang
-                                                                               first
-                                                                               first)))))
+       (when (not (.containsKey ^ConcurrentHashMap detect-language-cache iso639-keyword))
+         (let [needed-lang (some (fn [[_ rest]]
+                                   (when (some #(= lower-case-language (str/lower-case %))
+                                               (vals (select-keys rest [:english :french :alpha2 :alpha3-t :alpha3-b])))
+                                     [_ rest]))
+                                 (get-all-languages))]
+           (when (some? needed-lang)
+             (.put ^ConcurrentHashMap detect-language-cache iso639-keyword (first needed-lang)))))
        (.get ^ConcurrentHashMap detect-language-cache iso639-keyword))))
   ([language default]
    (let [lang (detect-language language)]
