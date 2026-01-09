@@ -11,6 +11,7 @@
 
   :plugins [[org.clojars.jj/bump "1.0.4"]
             [org.clojars.jj/bump-md "1.0.0"]
+            [org.clojars.jj/lein-git-tag "1.0.0"]
             [org.clojars.jj/strict-check "1.0.2"]]
 
   :deploy-repositories [["clojars" {:url      "https://repo.clojars.org"

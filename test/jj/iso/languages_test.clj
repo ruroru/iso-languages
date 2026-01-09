@@ -38,8 +38,7 @@
                                  )
 
   (are [language] (nil? (iso-languages/detect-language language))
-
-bytes                  :country
+                  bytes :country
                   {}
                   1
                   nil))
@@ -53,3 +52,33 @@ bytes                  :country
     "tsi" :english :tsimshian
     "aaa" :english :english
     "not-existing" :german :german))
+
+(deftest english-name
+  (are [language expected-language]
+    (= expected-language (iso-languages/language->english language))
+    :gothic "Gothic"
+    :tsimshian "Tsimshian"
+    :english "English"
+    :german "German"))
+
+(deftest french-name
+  (are [language expected-language]
+    (= expected-language (iso-languages/language->french language))
+    :gothic "Gothique"
+    :tsimshian "Tsimshian"
+    :english "Anglais"
+    :german "Allemand"))
+
+(deftest alpha2
+  (are [language expected-language]
+    (= expected-language (iso-languages/language->alpha2 language))
+    :english "en"
+    :german "de"))
+
+(deftest alpha3-b
+  (are [language expected-language]
+    (= expected-language (iso-languages/language->alpha3-b language))
+    :gothic "got"
+    :tsimshian "tsi"
+    :english "eng"
+    :german "ger"))

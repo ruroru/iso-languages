@@ -79,3 +79,15 @@
      (if (some? lang)
        lang
        default))))
+
+(defn language->english [language]
+  ((get-language language) :english))
+
+(defn language->french [language]
+  ((get-language language) :french))
+
+(defn language->alpha2 [language]
+  ((get-language language) :alpha2))
+
+(defn language->alpha3-b [language]
+  ((get-language language) :alpha3-b))
