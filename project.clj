@@ -1,4 +1,4 @@
-(defproject org.clojars.jj/iso-languages "1.0.1-SNAPSHOT"
+(defproject org.clojars.jj/iso-languages "1.0.1"
   :description "iso-languages is a Clojure library for ISO 639 language code lookup and detection.
 
   Provides functions to retrieve language information by ISO 639-1 (alpha-2), ISO 639-2 (alpha-3) codes, or language names, and to detect standardized language keywords from various input formats."
